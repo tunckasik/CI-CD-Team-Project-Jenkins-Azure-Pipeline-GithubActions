@@ -6,7 +6,7 @@ In this project three different CI/CD applications are used
 
 In this project, we will publish an app through Azure Web App service using three different CI/CD pipeline tools (same app, three different CI/CD pipelines). We chose Jenkins, Azure Pipeline, GithubActions as CI/CD tools.
 
-[//]: <> (There will be a project diagram as an image here)
+[//]: <> (There will be a project diagram here)
 
 We are working as a team to complete this project.
 Team Members:
